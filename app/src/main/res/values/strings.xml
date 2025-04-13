@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kiosk App</string>
+    <string name="admin_receiver_description">Device Administrator</string>
+</resources>
